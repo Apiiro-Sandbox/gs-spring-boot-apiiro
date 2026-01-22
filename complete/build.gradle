@@ -42,6 +42,9 @@ dependencies {
   testAnnotationProcessor 'org.projectlombok:lombok:1.18.22'
   
   implementation('com.github.javafaker:javafaker:1.0.2') 
+
+  // New technology – YAML processing
+  implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.17.1'
 }
 
 test {
