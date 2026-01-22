@@ -49,6 +49,10 @@ dependencies {
   // New technology – Kafka client
   implementation 'org.apache.kafka:kafka-clients:3.7.0'
 
+  // New authentication technology – Auth0
+  implementation 'com.auth0:auth0:2.4.0'
+
+
 }
 
 test {
