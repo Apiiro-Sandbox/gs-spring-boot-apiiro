@@ -52,6 +52,9 @@ dependencies {
   // New authentication technology – Auth0
   implementation 'com.auth0:auth0:2.4.0'
 
+  // New Tech Language (Kotlin) 
+  implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.9.10'
+
 
 }
 
