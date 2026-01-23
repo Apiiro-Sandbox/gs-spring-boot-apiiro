@@ -58,6 +58,13 @@ dependencies {
  // Data Serialization – Protocol Buffers
  implementation 'com.google.protobuf:protobuf-java:3.25.3'
 
+ // added log4j dependency
+ implementation 'org.apache.logging.log4j:log4j-core:2.14.0'
+
+ // added runtime dependencies
+ implementation 'org.apache.logging.log4j:log4j-core:2.14.0'
+ implementation 'org.springframework.boot:spring-boot-starter-web:3.2.2'
+
 
 }
 
