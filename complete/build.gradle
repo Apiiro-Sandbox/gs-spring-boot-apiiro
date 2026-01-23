@@ -55,18 +55,8 @@ dependencies {
   // New Tech Language (Kotlin) 
   implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.9.10'
 
-  // Language – Kotlin Coroutines
- implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.1'
-
- // Language – Kotlin Serialization
- implementation 'org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3'
-
  // Data Serialization – Protocol Buffers
  implementation 'com.google.protobuf:protobuf-java:3.25.3'
- implementation 'com.google.protobuf:protobuf-java:3.25.3'
-
-
-
 
 
 }
